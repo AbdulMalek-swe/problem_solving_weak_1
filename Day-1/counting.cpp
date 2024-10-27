@@ -5,8 +5,7 @@ using namespace std;
 int main()
 {
     int a, b;
-    cin >> a >> b;
-    cout << "a: " << a << "b: " <<   endl;
+    cin >> a >> b; 
     if (b < a)
     {
         cout << "0" << endl;
